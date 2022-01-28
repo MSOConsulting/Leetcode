@@ -19,6 +19,7 @@ namespace Leetcode
     {
         public int FindDuplicate(int[] nums)
         {
+            //Let's apply Floyd Warshall algoritm
             int slow = nums[0];
             int fast = nums[nums[0]];
 
