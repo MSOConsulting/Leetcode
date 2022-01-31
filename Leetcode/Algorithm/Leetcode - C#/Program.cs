@@ -11,8 +11,8 @@ namespace Leetcode
         static void Main(string[] args)
         {
 
-            Leetcode287 ltc287 = new Leetcode287();
-            int ans = ltc287.FindDuplicate(new int[] { 5, 3, 4, 5, 2, 1 });
+            Leetcode70 ltc70 = new Leetcode70();
+            int ans = ltc70.ClimbStairs(5);
             Console.WriteLine($"ans is: {ans}");
             Console.Read();
         }
