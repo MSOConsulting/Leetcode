@@ -4,6 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/**
+ * @author: Mehdi SOULA
+ * @created on: 02/02/2022
+ * @updated on: 02/02/2022
+ * @description: Given an array of strings strs, group the anagrams together. You can return the answer in any order.
+ */
+
 namespace Leetcode
 {
     internal class Leetcode49
