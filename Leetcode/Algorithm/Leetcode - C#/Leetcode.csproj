@@ -50,8 +50,10 @@
     <Compile Include="Leetcode227.cs" />
     <Compile Include="Leetcode287.cs" />
     <Compile Include="Leetcode41.cs" />
+    <Compile Include="Leetcode49.cs" />
     <Compile Include="Leetcode5.cs" />
     <Compile Include="Leetcode50.cs" />
+    <Compile Include="Leetcode53.cs" />
     <Compile Include="Leetcode70.cs" />
     <Compile Include="Leetcode76.cs" />
     <Compile Include="Program.cs" />
